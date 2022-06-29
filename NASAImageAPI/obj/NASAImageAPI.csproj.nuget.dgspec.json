@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jayed\\Source\\Repos\\DataDefenders\\NASAImageAPI\\NASAImageAPI.csproj": {}
+    "C:\\Users\\jayed\\Source\\Repos\\NASA\\NASAImageAPI\\NASAImageAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jayed\\Source\\Repos\\DataDefenders\\NASAImageAPI\\NASAImageAPI.csproj": {
+    "C:\\Users\\jayed\\Source\\Repos\\NASA\\NASAImageAPI\\NASAImageAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jayed\\Source\\Repos\\DataDefenders\\NASAImageAPI\\NASAImageAPI.csproj",
+        "projectUniqueName": "C:\\Users\\jayed\\Source\\Repos\\NASA\\NASAImageAPI\\NASAImageAPI.csproj",
         "projectName": "NASAImageAPI",
-        "projectPath": "C:\\Users\\jayed\\Source\\Repos\\DataDefenders\\NASAImageAPI\\NASAImageAPI.csproj",
+        "projectPath": "C:\\Users\\jayed\\Source\\Repos\\NASA\\NASAImageAPI\\NASAImageAPI.csproj",
         "packagesPath": "C:\\Users\\jayed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jayed\\Source\\Repos\\DataDefenders\\NASAImageAPI\\obj\\",
+        "outputPath": "C:\\Users\\jayed\\Source\\Repos\\NASA\\NASAImageAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -47,6 +47,10 @@
             "Microsoft.AspNet.WebApi.Client": {
               "target": "Package",
               "version": "[5.2.9, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0-preview.5.22301.12, )"
             }
           },
           "imports": [
